@@ -3,6 +3,9 @@ name = "diesel_derive_model"
 version = "0.1.0"
 authors = ["Thibaut Roche <thibaut.roche.perso@gmail.com>"]
 edition = "2018"
+license = "MIT"
+repository = "https://github.com/Aeradriel/rs_diesel_derive_model"
+description = "Provides a Model derive that allows to use common Model functions with diesel"
 
 [dependencies]
 quote = "0.6.10"
